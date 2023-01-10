@@ -14,5 +14,6 @@
     ["th16.exe", "Touhou Heavenly Jade Dipper ~ Hidden Star in Four Seasons", "th16"],
     ["th17.exe", "Touhou Oni-Shaped Beast ~ Wily Beast and Weakest Creature", "th17"],
     ["th18.exe", "Touhou Rainbow Dragon Cave ～ Unconnected Marketeers", "th18"],
-    ["OpenMPT.exe", "OpenMPT", "openmpt"]
+    ["OpenMPT.exe", "OpenMPT", "openmpt"],
+    ["Hades.exe", "Hades", "hades"]
 ]
